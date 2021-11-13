@@ -1,7 +1,3 @@
 # merin.login
 
-
-tambahkan ini
-Pull ini
-heysajsjdhh
-ini halaman login
+ini halaman login untuk menjadi sebuah contoh
